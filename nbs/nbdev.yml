@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_send"
+  site-url: "https://spence501.github.io/nbdev_send"
+  description: "SEND Power Platform Solution"
+  repo-branch: main
+  repo-url: "https://github.com/spence501/nbdev_send"
